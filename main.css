@@ -1,0 +1,13 @@
+body {
+    overflow-x: hidden;
+    width: 100%;
+    font: 15px "Century Gothic", "Times Roman", sans-serif;
+    background: #eee;
+    min-height: 550px;
+    background-attachment: fixed;
+  }
+
+  .bg {
+    background: url(https://press.youth4work.com/blogs/wp-content/uploads/2020/05/blog-post.png);
+    min-height: 535px;
+  }
